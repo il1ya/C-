@@ -5,3 +5,4 @@ Collection of books, i read and their implementation with practice.
 2. C++ Primer Plus(6th Edition) (Developer's Library) by Stephen Prata.
 3. Object-Oriented Programming in C++(4th Edition) by Robert Lafore.
 4. Programming: Principles and Practice Using C++ by Bjarne Stroustrup.
+5. C++ Primer by Stanley B. Lippman, Josée Lajoie, Barbara E. Moo.
