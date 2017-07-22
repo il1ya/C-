@@ -1,5 +1,4 @@
 # C++
-Collection of books, i read and their implementation with practice.
 
 1. Beginning C++ Though Game Programming by Michael Dawson.
 2. C++ Primer Plus(6th Edition) (Developer's Library) by Stephen Prata.
