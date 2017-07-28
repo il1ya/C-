@@ -1,0 +1,7 @@
+0: (x,y) = (0, 0)
+1: (x,y) = (14.1421, -14.1421)
+After 1 steps, the subject has the following location:
+(x,y) = (14.1421, -14.1421)
+or
+(m,a) = (20, -45)
+Average outward distance per step = 20
